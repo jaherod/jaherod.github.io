@@ -284,7 +284,7 @@ $(document).ready(function($) {
 	/* ---------------------------------------------------------------------- */
 	/*	Contact Map 2
 	/* ---------------------------------------------------------------------- */
-	var contact = {"lat":"-33.880641", "lon":"151.204298"}; //Change a map coordinate here!
+	var contact = {"lat":"17.1064483", "lon":"-96.7431833"}; //Change a map coordinate here!
 
 	try {
 		var mapContainer = $('#map');
